@@ -9,7 +9,7 @@ function RestaurantActive() {
     style={{
       backgroundImage: `url(${BackgroundImage.src})`}}>
         <div className="z-10 flex flex-col justify-center items-center w-[100%] h-[100%] text-white">
-          <h1 className="text-secondary md:text-[32px] text-[20px] font-bold md:text-right text-center">Restaurant Active Process</h1>
+          <h1 className="top-heading md:text-right text-center">Restaurant Active Process</h1>
           <h1 className="text-[25px] md:text-[48px] font-bold md:w-[60%] text-center mt-[20px] md:mt-0 md:text-right"><span className="text-secondary">We</span> Document Every Food Bean Process untile it is saved</h1>
           <h3 className="w-[60%] text-base  mt-[20px] md:mt-0"> 
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque
