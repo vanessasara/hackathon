@@ -23,10 +23,7 @@ const config: Config = {
   	},
   	extend: {
   		colors: {
-  			secondary: {
-  				DEFAULT: 'hsl(var(--secondary))',
-  				foreground: 'hsl(var(--secondary-foreground))'
-  			},
+  			secondary:'#FF9F0D' ,
   			background: 'hsl(var(--background))',
   			foreground: 'hsl(var(--foreground))',
   			card: {
