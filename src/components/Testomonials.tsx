@@ -10,7 +10,7 @@ function Testimonials() {
     <>
       <section className="bg-black px-5 md:px-[135px] py-[120px]">
         <div>
-          <h2 className="text-secondary text-lg font-semibold mb-2">Testimonials</h2>
+          <h2 className="top-heading">Testimonials</h2>
           <h2 className="text-white font-bold text-[25px] md:text-[48px] whitespace-nowrap md:whitespace-normal">
             What our client are saying
           </h2>
